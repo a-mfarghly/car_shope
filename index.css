@@ -1,0 +1,49 @@
+/* */
+.form-background {
+    background-image: url("bmw-m5-f90-v8-4-4-600-ch-119427.jpg"); /* استبدل الرابط بصورة ملابس */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .form-container {
+    background: rgba(192, 208, 228, 0.772);
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .submit-btn {
+    background-color: #3554a1;
+    color: #fff;
+    border: none;
+    width: 100%;
+  }
+  /*     */
+  .social-icons {
+    margin-left: 150px;
+  }
+  
+  .social-icons a {
+    color: #555;
+    font-size: 1.5em;
+    margin: 0 10px;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #3554a1;;
+  }
